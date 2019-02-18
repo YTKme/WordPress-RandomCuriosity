@@ -1,2 +1,2 @@
-# WordPress-RandomCuriosity
+# WordPress Random Curiosity
 WordPress Random Curiosity Theme
